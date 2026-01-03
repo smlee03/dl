@@ -1,0 +1,14 @@
+# Python requirements for Adaptive MCS Platooning Simulation
+# All libraries are standard scientific computing packages
+
+# Core numerical computing
+numpy>=1.19.0
+
+# Scientific functions (erfc, etc.)
+scipy>=1.5.0
+
+# Plotting and visualization
+matplotlib>=3.3.0
+
+# Optional: Enhanced plotting
+seaborn>=0.11.0
