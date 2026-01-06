@@ -1,4 +1,4 @@
-# Experiment Summary: Adaptive MCS for Platooning Groupcast
+# Groupcast MCS - Experiment Summary
 
 ## Objective
 

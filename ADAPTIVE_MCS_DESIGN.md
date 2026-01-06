@@ -1,4 +1,4 @@
-# Adaptive MCS Algorithm Design for Platooning Groupcast
+# Groupcast MCS - Algorithm Design
 
 ## Overview
 This document describes the design of adaptive MCS (Modulation and Coding Scheme) algorithms for groupcast communication in platooning scenarios, with scientific justification for all parameters.

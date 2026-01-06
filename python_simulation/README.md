@@ -1,4 +1,4 @@
-# Python Simulation - Adaptive MCS for Platooning
+# Groupcast MCS - Python Simulation
 
 ## Quick Start
 
