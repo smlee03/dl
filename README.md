@@ -1,4 +1,4 @@
-# Adaptive MCS for Platooning Groupcast
+# Groupcast MCS
 
 Adaptive Modulation and Coding Scheme (MCS) algorithms for V2V groupcast communication in platooning scenarios, with NLOS parameter for blocking vehicles.
 
@@ -268,8 +268,8 @@ pip install -r requirements.txt
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{adaptive_mcs_platooning,
-  title = {Adaptive MCS for Platooning Groupcast},
+@software{groupcast_mcs,
+  title = {Groupcast MCS},
   author = {Your Name},
   year = {2026},
   note = {GitHub repository},

@@ -1,4 +1,4 @@
-# MATLAB Simulation - Adaptive MCS for Platooning
+# Groupcast MCS - MATLAB Simulation
 
 ## Quick Start
 
